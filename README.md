@@ -1,7 +1,7 @@
 # Point-in-a-row
 
 下载方式：
-将Point in a row.exe和cell.bmp下载到同一目录
+将Point-in-a-row.exe和cell.bmp下载到同一目录
 
 游戏规则：
 1.游戏为类五子棋玩法，棋子为1-9随机点数，当横竖斜同色数字连起来>=25即该色获胜。
